@@ -19,7 +19,7 @@ freeCodeCamp.org es posible gracias a miles de voluntarios amables como tú. Nos
 
 Cumplimos estrictamente nuestro ["Código de conducta"](https://www.freecodecamp.org/code-of-conduct). Tómate un momento para leerlo. No es muy largo.
 
-Feliz contribución 🎉!
+¡Feliz contribución 🎉!
 
 ## Aquí hay algunas maneras divertidas en que puedes ayudar:
 
